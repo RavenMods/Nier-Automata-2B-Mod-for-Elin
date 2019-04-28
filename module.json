@@ -1,0 +1,10 @@
+{
+    "name": "Nier-Automata-2B-Mod-for-Elin",
+    "category": "client",
+    "description": "Complete Nier: Automata 2B outfit for Elin. Required costume: Dyeable Chambermaid, head accessory: Lil’ Devil Horns, face: Tortoise-Shell Brow Glasses.",
+    "author": "Raven",
+    "options": {
+        "niceName": "CNier: Automata 2B Mod for Elin"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Nier-Automata-2B-Mod-for-Elin/master/"]
+}

@@ -1,1 +1,3 @@
-# Nier Automata 2B Mod for Elin
+# Costume: Dyeable Chambermaid
+Head: Lil’ Devil Horns 
+Face: Tortoise-Shell Brow Glasses 
